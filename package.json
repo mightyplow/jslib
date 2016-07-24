@@ -1,0 +1,19 @@
+{
+  "name": "@mightyplow/jslib",
+  "version": "0.1.0",
+  "description": "js helpers library",
+  "main": "",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["js", "javascript", "helpers", "library"],
+  "author": {
+    "name": "mightyplow",
+    "email": "mightyplow@gmail.com",
+    "url": "http://mightyplow.net"
+  },
+  "license": "ISC"
+}
