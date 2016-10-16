@@ -4,16 +4,23 @@
   "description": "js, helpers library",
   "main": "jslib.js",
   "dependencies": {
+    "nodeunit": "^0.10.2"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "nodeunit": "nodeunit",
+    "test": "nodeunit tests"
   },
   "files": [
     "lib",
     "jslib.js"
   ],
-  "keywords": ["js", "javascript", "helpers", "library"],
+  "keywords": [
+    "js",
+    "javascript",
+    "helpers",
+    "library"
+  ],
   "author": {
     "name": "mightyplow",
     "email": "mightyplow@gmail.com",
