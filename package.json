@@ -1,6 +1,6 @@
 {
   "name": "@mightyplow/jslib",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "description": "js, helpers library",
   "main": "jslib.js",
   "dependencies": {
