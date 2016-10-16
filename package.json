@@ -1,7 +1,7 @@
 {
   "name": "@mightyplow/jslib",
-  "version": "0.2.0",
-  "description": "js, helpers library",
+  "version": "0.2.1",
+  "description": "JavaScript helpers library",
   "main": "jslib.js",
   "dependencies": {
     "nodeunit": "^0.10.2"
@@ -25,6 +25,10 @@
     "name": "mightyplow",
     "email": "mightyplow@gmail.com",
     "url": "http://mightyplow.net"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/mightyplow/jslib.git"
   },
   "license": "ISC"
 }
